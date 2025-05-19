@@ -4,7 +4,7 @@ This repository contains my individual work on the **Campus News** project for t
 
 ## Description
 
-Campus News is a web-based platform designed to serve as a centralized hub for campus-related news and updates. It allows administrators to post news articles, and users can browse, search, and stay updated on recent events and announcements related to campus life.
+Campus News is a web-based platform designed to serve as a centralized hub for campus-related news and updates. It allows administrators to post news articles, and users can browse, search, and stay updated on recent news and announcements related to campus life.
 
 ## Features
 
